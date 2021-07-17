@@ -1,0 +1,14 @@
+{
+  "name": "department_app",
+  "version": "0.1.1",
+  "description": "This app is used to take affadavit inputs, generate key pairs, hash the inputs, append them to the correct database, and return the key pair, to be delivered to the user.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Zachary Aster",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
